@@ -3,6 +3,7 @@
 
 #include <vector>
 #include <vulkan/vulkan.h>
+#include <string>
 
 std::vector<char> readShader(const std::string& filename);
 void createShaderModule(std::vector<char> code, VkShaderModule& shaderModule);
