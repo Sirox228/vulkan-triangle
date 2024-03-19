@@ -1,0 +1,8 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define MAX_FRAMES_FLIGHT 2
+#define VIEWPORT_WIDTH 1280
+#define VIEWPORT_HEIGHT 720
+
+#endif
